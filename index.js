@@ -4,4 +4,4 @@ function shout(string) {
   return string.toUpperCase();
 }
 
-shout(sentence);
+console.log(shout(sentence));
