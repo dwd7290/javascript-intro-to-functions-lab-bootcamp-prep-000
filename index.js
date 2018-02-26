@@ -1,2 +1,3 @@
-function shout(setence) { 
+function shout(string) { 
+  return string.toUpperCase();
 }
